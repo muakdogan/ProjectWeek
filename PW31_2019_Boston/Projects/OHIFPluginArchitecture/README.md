@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [James A Petts][james] ([Institute for Cancer Research, London][icr-london])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [Steve Pieper][steve] ([Isomics][isomics])
-- [Mete Akdogan] [mete] ([Stanford University, Rubin Lab] [rubin-lab])
+- [Mete Akdogan][mete] ([Stanford University, Rubin Lab][rubin-lab])
 
 ## Description
 
