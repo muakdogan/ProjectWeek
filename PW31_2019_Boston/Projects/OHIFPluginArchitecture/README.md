@@ -88,3 +88,4 @@ The OHIF Viewer Platform is currently coupled to it's various components' depend
 [james-magic]: https://github.com/JamesAPetts/OHIF-Viewer-XNAT/tree/xnatRoi-dev-vNext/Packages/icr-peppermint-tools
 [rubin-lab]: https://rubinlab.stanford.edu/
 [mete]: https://github.com/muakdogan
+[rubin-lab]: https://rubinlab.stanford.edu/
